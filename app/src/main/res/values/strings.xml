@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">Tv Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search Tv show</string>
+    <string name="add">Add to Favorite</string>
+    <string name="remove">Remove from Favorite</string>
+
+    <string name="item_name">Title</string>
+    <string name="item_description">Description</string>
+    <string name="double_tap_alert">Tap Again to Exit</string>
+    <string name="overview">Overview</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit lorem sapien, eu pellentesque ligula blandit eu. Nam vitae ex sed elit consectetur pulvinar. Suspendisse est dui.</string>
+    <string name="desc_img">image description</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="settings">Settings</string>
+    <string name="appwidget_text">MOVIE FAVORITE</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="search">Search</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="release_reminder_description">Reminder showing the movie that released today</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_description">Reminder for return to app</string>
+    <string name="release_notification_message">has been release today</string>
+    <string name="daily_notification_message">missing you!</string>
+    <string name="toast_message">you can see the full description in Movie Catalogue App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

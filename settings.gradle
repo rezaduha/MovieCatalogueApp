@@ -1,0 +1,2 @@
+include ':app', ':moviecataloguefavorite'
+rootProject.name='ProyekAkhir_AplikasiMovieCatalogue'

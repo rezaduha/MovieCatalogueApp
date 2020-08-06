@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Katalog Film Favorit</string>
+
+    <string name="item_name">Title</string>
+    <string name="item_description">Description</string>
+    <string name="double_tap_alert">Tekan Lagi untuk Keluar</string>
+    <string name="desc_img">detail activity image</string>
+    <string name="toast_message">kamu bisa melihat deskripsi lengkapnya di aplikasi Katalog Film</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+</resources>

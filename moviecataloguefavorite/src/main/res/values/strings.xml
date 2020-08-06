@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Catalogue Favorite</string>
+
+    <string name="item_name">Title</string>
+    <string name="item_description">Description</string>
+    <string name="double_tap_alert">Tap Again to Exit</string>
+    <string name="desc_img">detail activity image</string>
+    <string name="toast_message">you can see the full description in Movie Catalogue App</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+</resources>
